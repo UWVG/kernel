@@ -1,0 +1,9 @@
+menuconfig UWVG
+	bool "Under Water Vechile Group"
+
+if UWVG
+
+source "uwvg/uwvg_gpio_drv/Kconfig"
+
+endif
+

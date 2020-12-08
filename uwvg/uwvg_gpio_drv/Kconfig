@@ -1,0 +1,2 @@
+config UWVG_GPIO_DRV
+	bool "UWVG_GPIO_DRIVER"
